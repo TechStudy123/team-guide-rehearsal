@@ -14,4 +14,6 @@ Git for Windows を公式のページ（https://gitforwindows.org/）から入�
 ## 3. VS Code を入れる
 
 VS Code を公式のページから入れます。
+Windows はユーザー向けのインストーラーを使います。
+Mac は zip を展開して、アプリケーションのフォルダへ移します。
 日本語の表示にする拡張機能（Japanese Language Pack）も入れます。
